@@ -1,16 +1,15 @@
-## Hi there 👋
+# Leonhearts
 
-<!--
-**Leonzecer/Leonzecer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Making tiny annoying things disappear.
 
-Here are some ideas to get you started:
+## Current quests
+- color workflow tools
+- tiny UX fixes
+- automation experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Philosophy
+If something feels annoying twice,
+it probably deserves a script.
+
+## Status
+Probably overthinking color distances again.
