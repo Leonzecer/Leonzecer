@@ -11,5 +11,5 @@ Making tiny annoying things disappear.
 If something feels annoying twice,
 it probably deserves a script.
 
-## Status
+## Current Status
 Probably overthinking color distances again.
